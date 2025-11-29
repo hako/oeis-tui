@@ -21,7 +21,7 @@ Download the latest binary for your platform from the [releases page](https://gi
 ### Using Homebrew
 
 ```bash
-brew install hako/oeis-tui/oeis-tui
+brew install hako/tap/oeis-tui
 ```
 
 ### Using eget
