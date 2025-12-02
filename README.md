@@ -1,6 +1,7 @@
 <div align="center">
   <h1>oeis-tui</h1>
   <p>A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.</p>
+  <a title="This tool is Tool of The Week on Terminal Trove, The $HOME of all things in the terminal" href="https://terminaltrove.com/"><img height="350px" width="350px" src="https://cdn.terminaltrove.com/media/badges/tool_of_the_week/png/terminal_trove_tool_of_the_week_gold_transparent.png" alt="Terminal Trove Tool of The Week" /></a>
   <img src="media/oeis-tui-preview-screen.png" width="800" alt="oeis-tui preview">
   <br><br>
   <video alt="oeis-tui demo" src="https://github.com/user-attachments/assets/2516f940-ddbb-48df-b816-350510ba6384" width="800" autoplay loop muted playsinline>
